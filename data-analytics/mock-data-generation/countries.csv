@@ -1,0 +1,11 @@
+country_id,country_name,phone_code,country_code,last_updated_at,is_eu_member
+1,United States,+1,US,2026-05-12 15:46:46,False
+2,Canada,+1,CA,2025-03-28 11:21:41,False
+3,United Kingdom,+44,GB,2025-01-20 10:14:03,False
+4,Germany,+49,DE,2026-07-30 23:30:11,True
+5,France,+33,FR,2025-08-02 14:55:05,True
+6,India,+91,IN,2025-07-10 05:06:54,False
+7,Australia,+61,AU,2025-06-23 08:56:59,False
+8,Mexico,+52,MX,2025-04-19 09:10:31,False
+9,Ireland,+353,IE,2026-07-27 00:49:06,True
+10,Sweden,+46,SE,2025-03-21 14:38:54,True

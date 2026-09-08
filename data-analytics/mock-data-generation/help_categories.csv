@@ -1,0 +1,16 @@
+cat_id,cat_name,cat_desc,last_updated_at
+1,FOOD_ASSISTANCE,"Help accessing food, groceries, or meals",2025-02-05 14:13:42
+1.1,FOOD_DELIVERY,Delivering food to those in need,2026-05-29 14:50:30
+2,SHELTER,Help finding or maintaining shelter/housing,2025-06-27 00:19:54
+2.1,SHELTER_TEMPORARY,Temporary/emergency shelter assistance,2026-08-24 11:02:18
+3,HEALTHCARE,Health and medical assistance,2025-08-13 18:34:57
+3.1,HEALTHCARE_MENTAL,Mental health support,2025-03-03 23:25:48
+4,EDUCATION,"Tutoring, mentoring, and educational support",2025-06-30 19:32:11
+5,TRANSPORTATION,Rides and transportation assistance,2025-03-20 10:48:11
+6,CLOTHING,Clothing donations and distribution,2025-10-23 06:03:59
+7,ELDER_CARE,Assistance for elderly individuals,2025-08-04 21:48:12
+8,CHILD_CARE,Childcare and youth support,2025-12-19 04:10:50
+9,DISASTER_RELIEF,Disaster and emergency relief,2026-05-09 18:01:00
+10,LEGAL_AID,Legal assistance and advocacy,2025-10-11 08:57:53
+11,EMPLOYMENT,Job search and employment support,2025-05-07 08:05:31
+12,TRANSLATION,Language translation/interpretation help,2025-10-15 12:40:24
